@@ -7,7 +7,6 @@ Currently a CS student at Gonzaga University
 <samp>
 <p>Some things I've done:</p>
 <ul> 
-  <li> Currently working to impliment an Atari <a href="https://github.com/TheRedLancer/Breakout">Breakout</a> clone in C++/OpenGL</li>
   <li> Programmer/IT Support for Kennedy Catholic High School</li>
   <li> Programmer/Web Developer for Dr. Gina Sprint's Research @ Gonzaga University</li>
   <li> <a href="https://www.kongregate.com/games/TheRedLancer/the-molehill-whack-em">2D Whack-A-Mole game</a> built in Unity </li>
