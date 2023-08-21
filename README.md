@@ -4,7 +4,7 @@
 
 He/him. 
 
-Currently a Senior CS student at Gonzaga University
+Gonzaga Computer Science class of 2023
 
 Seeking full time positions for the following roles in the Video Game Industry:
 * Gameplay Engineer
